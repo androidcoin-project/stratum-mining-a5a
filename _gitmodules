@@ -1,0 +1,6 @@
+[submodule "externals/stratum-mining-proxy"]
+	path = externals/stratum-mining-proxy
+	url = https://github.com/generalfault/stratum-mining-proxy
+[submodule "externals/stratum"]
+	path = externals/stratum
+	url = https://github.com/ahmedbodi/stratum.git
